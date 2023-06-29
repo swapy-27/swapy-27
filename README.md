@@ -30,60 +30,48 @@ Hi there 👋, I'm
 <!-- About Me -->
 <p align="center">
 <!-- Experienced -->
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=c&logoColor=ffffff&message=C&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=c%2B%2B&logoColor=ffffff&message=C%2B%2B&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=javascript&logoColor=ffffff&message=JavaScript&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=css3&logoColor=ffffff&message=CSS&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=go&logoColor=ffffff&message=Go&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=go&logoColor=ffffff&message=Java&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=html5&logoColor=ffffff&message=HTML&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=latex&logoColor=ffffff&message=LaTeX&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=markdown&logoColor=ffffff&message=Markdown&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=sass&logoColor=ffffff&message=Sass&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=gnu-bash&logoColor=ffffff&message=Shell%20Script&style=flat-square" />
 <br />
 <!-- Familiar -->
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=javascript&logoColor=ffffff&message=JavaScript&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=python&logoColor=ffffff&message=Python&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=c&logoColor=ffffff&message=C&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=c%2B%2B&logoColor=ffffff&message=C%2B%2B&style=flat-square" />
 <br />
 <!-- Frameworks and Libraries -->
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hugo&logoColor=ffffff&message=Hugo&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=jekyll&logoColor=ffffff&message=Jekyll&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hugo&logoColor=ffffff&message=SpringBoot&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=jekyll&logoColor=ffffff&message=Spring&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=react&logoColor=ffffff&message=React&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=vue.js&logoColor=ffffff&message=Vue&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=vue.js&logoColor=ffffff&message=NodeJs&style=flat-square" />
 <br />
 <!-- Tools and Technologies -->
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=argo&logoColor=ffffff&message=Argo CD&style=flat-square" />
+<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=argo&logoColor=ffffff&message=Apache%20Camel CD&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=circleci&logoColor=ffffff&message=CircleCI&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=docker&logoColor=ffffff&message=Docker&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=git&logoColor=ffffff&message=Git&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=google-cloud&logoColor=ffffff&message=Google%20Cloud%20Platform&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=kubernetes&logoColor=ffffff&message=Kubernetes&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=mongodb&logoColor=ffffff&message=MongoDB&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=node.js&logoColor=ffffff&message=Node.js&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=postgresql&logoColor=ffffff&message=PostgreSQL&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=postman&logoColor=ffffff&message=Postman&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=prometheus&logoColor=ffffff&message=Prometheus&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=terraform&logoColor=ffffff&message=Terraform&style=flat-square" />
 <br />
 <!-- Operating Systems -->
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=linux&logoColor=ffffff&message=Linux&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=apple&logoColor=ffffff&message=macOS&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=windows&logoColor=ffffff&message=Windows&style=flat-square" />
 <br />
 <!-- Workflow -->
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=brave&logoColor=ffffff&message=Brave&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=github-actions&logoColor=ffffff&message=GitHub%20Actions&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=google-chrome&logoColor=ffffff&message=Google%20Chrome&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=homebrew&logoColor=ffffff&message=Homebrew&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=notion&logoColor=ffffff&message=Notion&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=prettier&logoColor=ffffff&message=Prettier&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=sublimetext&logoColor=ffffff&message=Sublime&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=vercel&logoColor=ffffff&message=Vercel&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=visual-studio-code&logoColor=ffffff&message=Visual%20Studio%20Code&style=flat-square" />
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?color=0969da&style=for-the-badge&username=iamrajiv" />
+<img src="https://komarev.com/ghpvc/?color=0969da&style=for-the-badge&username=swapy-27" />
 </p>
 
 ---
