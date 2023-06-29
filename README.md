@@ -5,21 +5,20 @@ Hi there 👋, I'm
 
 <p align="center">
 <!-- Social Profiles -->
-<a href="https://www.facebook.com/iamrajivranjansingh"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=facebook&logoColor=ffffff&message=Facebook&style=for-the-badge" /></a>
-<a href="[https://github.com/iamrajiv](https://github.com/swapy-27)"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=github&logoColor=ffffff&message=GitHub&style=for-the-badge" /></a>
+<a href="https://www.facebook.com/profile.php?id=100049289682314"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=facebook&logoColor=ffffff&message=Facebook&style=for-the-badge" /></a>
+<a href="https://github.com/swapy-27"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=github&logoColor=ffffff&message=GitHub&style=for-the-badge" /></a>
 <a href="mailto:swapniljain240@gmail.com"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=gmail&logoColor=ffffff&message=Gmail&style=for-the-badge" /></a>
-<a href="https://www.instagram.com/iamrajivranjansingh"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=instagram&logoColor=ffffff&message=Instagram&style=for-the-badge" /></a>
+<a href="https://www.instagram.com/sforswaapy"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=instagram&logoColor=ffffff&message=Instagram&style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/swapnijain27012000/"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge" /></a>
-<a href="https://stackoverflow.com/users/10765954/rajiv-ranjan-singh?tab=profile"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=stack-overflow&logoColor=ffffff&message=Stack%20Overflow&style=for-the-badge" /></a>
-<a href="https://twitter.com/therajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=twitter&logoColor=ffffff&message=Twitter&style=for-the-badge" /></a>
+<a href="https://stackoverflow.com/users/16463420/swapnil-jain"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=stack-overflow&logoColor=ffffff&message=Stack%20Overflow&style=for-the-badge" /></a>
+<a href="https://twitter.com/swaapy27"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=twitter&logoColor=ffffff&message=Twitter&style=for-the-badge" /></a>
 </p>
 
 <!-- Coding Profiles -->
 <p align="center">
-<a href="https://www.codechef.com/users/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=codechef&logoColor=ffffff&message=CodeChef&style=for-the-badge" /></a>
-<a href="https://codeforces.com/profile/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=codeforces&logoColor=ffffff&message=Codeforces&style=for-the-badge" /></a>
-<a href="https://www.hackerearth.com/@iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=HackerEarth&style=for-the-badge" /></a>
-<a href="https://www.hackerrank.com/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=HackerRank&style=for-the-badge" /></a>
+<a href="https://www.hackerearth.com/@swapniljain240"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=HackerEarth&style=for-the-badge" /></a>
+<a href="https://www.hackerrank.com/swapniljain240?hr_r=1"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=HackerRank&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/swaapy27/"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=leetcode&logoColor=ffffff&message=leetcode&style=for-the-badge" /></a>
 </p>
 
 <!-- Stats -->
